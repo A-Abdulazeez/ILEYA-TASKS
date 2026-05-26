@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-class PerfectSquaresTest {
+public class PerfectSquaresTest {
 
     @Test
     public void shouldReturnPerfectSquaresFromMixedArray() {
